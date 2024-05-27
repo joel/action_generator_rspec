@@ -71,6 +71,7 @@ GEM
 PLATFORMS
   arm64-darwin-23
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   action_generator_rspec!
